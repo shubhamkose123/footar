@@ -1,0 +1,34 @@
+
+ #footer{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: rgb(242, 231, 217);
+    padding: 80px;
+}
+#dont{
+    font-size: 50px;
+    font-weight: bold;
+}
+#dont1 div{
+    padding: 10px;
+}
+#ser{
+    font-weight: bold;
+    font-size: 20px;
+}
+#dont1 i{
+    font-size: 30px;
+    padding: 10px;
+}
+#last{
+    font-size: 25px
+    
+}
+#dont1 i:hover{
+    color: brown;
+    scale: 1.2;
+    transition: 0.5s;
+}
+
+
+
